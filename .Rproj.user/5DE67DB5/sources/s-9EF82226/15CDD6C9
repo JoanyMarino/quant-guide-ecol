@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1597243533982.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "15CDD6C9",
+    "lastKnownWriteTime" : 1597304098,
+    "last_content_update" : 1597304098447,
+    "path" : "~/Desktop/quant-guide-ecol/21-graph-in-R.Rmd",
+    "project_path" : "21-graph-in-R.Rmd",
+    "properties" : {
+        "cursorPosition" : "207,3",
+        "scrollLine" : "204"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

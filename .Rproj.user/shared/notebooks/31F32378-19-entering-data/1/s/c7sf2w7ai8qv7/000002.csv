@@ -1,0 +1,7 @@
+"0","table1 <- data.frame(taxa = c(""ephemeroptera"", ""gastropoda"", "
+"0","                                ""platyhelminthes""), "
+"0","                     ""density"" = c(NA, NA, NA), "
+"0","                     ""group"" = c(NA, NA, NA), "
+"0","                     ""habitat"" = c(NA, NA, NA)) "
+"0","write.csv(x = table1, file = ""organism-density.csv"", "
+"0","          row.names = FALSE)"

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1597244677629.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "783852734",
+    "id" : "3292C802",
+    "lastKnownWriteTime" : 1597303285,
+    "last_content_update" : 1597303285794,
+    "path" : "~/Desktop/quant-guide-ecol/27-BIOL-1001-lab-2.Rmd",
+    "project_path" : "27-BIOL-1001-lab-2.Rmd",
+    "properties" : {
+        "cursorPosition" : "3,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

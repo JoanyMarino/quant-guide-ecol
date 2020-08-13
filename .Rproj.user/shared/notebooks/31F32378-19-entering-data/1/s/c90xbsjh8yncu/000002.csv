@@ -1,0 +1,6 @@
+"0","table2 <- data.frame(condition = c(""depth"", ""velocity""), "
+"0","                     ""value"" = c(NA, NA), "
+"0","                     ""group"" = c(NA, NA), "
+"0","                     ""habitat"" = c(NA, NA))"
+"0","write.csv(x = table2, file = ""abiotic-conditions.csv"", "
+"0","          row.names = FALSE)"

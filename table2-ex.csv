@@ -1,0 +1,13 @@
+condition,value,group,habitat
+depth,18.5,1,pool
+depth,11.7,2,pool
+depth,19.7,3,pool
+velocity,1,1,pool
+velocity,3,2,pool
+velocity,3,3,pool
+depth,14.7,1,riffle
+depth,10.2,2,riffle
+depth,14.2,3,riffle
+velocity,27.4,1,riffle
+velocity,20.6,2,riffle
+velocity,33.3,3,riffle
